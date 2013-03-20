@@ -1,5 +1,5 @@
 {
-  "name": "components-backbone",
+  "name": "backbone",
   "description": "Give your JS App some Backbone with Models, Views, Collections, and Events.",
   "homepage": "http://backbonejs.org/",
   "keywords": ["model", "view", "controller", "router", "server", "client", "browser"],
@@ -9,7 +9,7 @@
     "url": "git://github.com/components/backbone.git"
   },
   "dependencies": {
-    "components/underscore": "*"
+    "underscore": "~1.4.4"
   },
   "version": "0.9.10",
   "scripts": [
