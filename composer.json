@@ -22,7 +22,13 @@
         "component": {
             "scripts": [
                 "backbone.js"
-            ]
+            ],
+            "shim": {
+                "deps": [
+                    "underscore"
+                ],
+                "exports": "Backbone"
+            }
         }
     }
 }
