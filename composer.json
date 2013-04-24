@@ -23,6 +23,9 @@
             "scripts": [
                 "backbone.js"
             ],
+            "files": [
+                "backbone-min.js"
+            ],
             "shim": {
                 "deps": [
                     "underscore"
