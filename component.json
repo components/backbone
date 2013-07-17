@@ -10,11 +10,12 @@
     "url": "git://github.com/components/backbone.git"
   },
   "dependencies": {
-    "components/underscore": "~1.4.4"
+    "components/jquery": "2.0.3",
+    "components/underscore": "1.4.4"
   },
   "version": "1.0.0",
-  "main": "underscore.js",
+  "main": "backbone.js",
   "scripts": [
-    "underscore.js"
+    "backbone.js"
   ]
 }
